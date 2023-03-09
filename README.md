@@ -1,6 +1,6 @@
 # FemaleAgencyTamerTaming
 ## Computational Linguistics to Assess Female Agency in The Taming of the Shrew and Tamer 
-<br />
+
 [Copy_of_BeccaCohen_2](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Copy_of_BeccaCohen2.ipynb) contains code for creating the Tamer Tamed dataframe <br />
 <br />
 [Creatingtamingdatasetattempt 2](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/creatingtamingdatasetattempt2.ipynb) contains code for creating the Taming dataframe <br />
