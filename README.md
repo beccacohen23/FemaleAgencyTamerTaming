@@ -18,3 +18,9 @@ The above analytics for Tamer Tamed are included within [analytics_for_taming_ac
 [SPACYwithsentences_Taming](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/SPACYwithsentences_Taming.ipynb) and [SPACYwithsentencestamertamed](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/SPACYwithsentencestamertamed.ipynb) contain the above analysis steps, but repeated with spacy to pull out the subjects per sentence instead of per speaker line (as it was earlier) <br />
 <br />
 [analytics_for_tamer_withSPACY](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/analytics_for_tamer_withSPACY_.ipynb) and [analytics_for_tamer_with_act_bd](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/analytics_for_taming_w_act_bd.ipynb) contain the final analytics, and some of the most important graphs used in the final thesis paper <br />
+<br />
+
+Here are the Word Similarity Notebooks:
+[Word Similarity Notebook for Taming alone](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Copy_of_separate_of_Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)
+[Word Similarity Notebook for Tamer alone](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/separate_of_Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)
+[Word Similarity Notebook for Tamer + Taming combined](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)
