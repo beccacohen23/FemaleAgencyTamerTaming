@@ -21,6 +21,6 @@ The above analytics for Tamer Tamed are included within [analytics_for_taming_ac
 <br />
 
 Here are the Word Similarity Notebooks:
-[Word Similarity Notebook for Taming alone](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Copy_of_separate_of_Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)
-[Word Similarity Notebook for Tamer alone](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/separate_of_Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)
-[Word Similarity Notebook for Tamer + Taming combined](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)
+[Word Similarity Notebook for Taming alone](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Copy_of_separate_of_Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)<br />
+[Word Similarity Notebook for Tamer alone](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/separate_of_Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)<br />
+[Word Similarity Notebook for Tamer + Taming combined](https://github.com/beccacohen23/FemaleAgencyTamerTaming/blob/main/Taming%2BTamer_Copy_of_BERT_For_Humanists_Word_Similarity_English_Public_Domain_Poetry.ipynb)<br />
